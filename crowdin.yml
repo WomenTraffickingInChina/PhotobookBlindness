@@ -1,0 +1,3 @@
+files:
+  - source: /original_caption_in_simplified_chinese
+    translation: /caption_translated/%language%/%file_name%
